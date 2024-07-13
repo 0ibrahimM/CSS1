@@ -1,0 +1,27 @@
+.gt21{background-color: aquamarine;}
+
+.xsw021{background-color: darkcyan;}
+#cvb{background-color: brown;}
+#hjk{background-color: aquamarine;}
+
+
+
+
+.box{background-color: greenyellow;
+height: 250px;
+width: 250px;
+border: 4px solid black;
+border-radius: 10px;
+
+padding-top: 10px;
+}
+
+.box2{background-color:olivedrab;
+    height: 250px;
+    width: 250px;
+    border: 4px solid khaki;
+    border-radius: 10px;
+    
+    padding-top: 10px;
+
+}
